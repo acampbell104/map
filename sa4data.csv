@@ -1,0 +1,90 @@
+sa4_name,state,2019_population,Dose_1_percent,Dose_2_percent
+Australian Capital Territory,Australian Capital Territory,345325,87.8,61.2
+Capital Region,New South Wales,188283,86.9,58.1
+Central Coast,New South Wales,279520,86.3,58.0
+Central West,New South Wales,170545,88.9,58.2
+Coffs Harbour - Grafton,New South Wales,116379,78.5,46.9
+Far West and Orana,New South Wales,92695,89.2,62.9
+Hunter Valley exc Newcastle,New South Wales,223616,81.9,49.1
+Illawarra,New South Wales,257183,83.5,57.1
+Mid North Coast,New South Wales,185401,83.9,53.7
+Murray,New South Wales,97988,83.0,52.8
+New England and North West,New South Wales,149890,79.8,49.2
+Newcastle and Lake Macquarie,New South Wales,310484,83.1,53.6
+Richmond - Tweed,New South Wales,208471,75.6,46.5
+Riverina,New South Wales,128994,82.9,54.1
+Southern Highlands and Shoalhaven,New South Wales,129789,88.2,61.7
+Sydney - Baulkham Hills and Hawkesbury,New South Wales,199726,99.9,74.9
+Sydney - Blacktown,New South Wales,291560,99.9,67.5
+Sydney - City and Inner South,New South Wales,333308,73.7,55.1
+Sydney - Eastern Suburbs,New South Wales,251184,79.3,61.7
+Sydney - Inner South West,New South Wales,512553,85.1,58.8
+Sydney - Inner West,New South Wales,274697,83.7,63.4
+Sydney - North Sydney and Hornsby,New South Wales,360504,90.1,71.9
+Sydney - Northern Beaches,New South Wales,221234,90.5,69.4
+Sydney - Outer South West,New South Wales,224905,91.7,63.6
+Sydney - Outer West and Blue Mountains,New South Wales,260710,89.0,61.5
+Sydney - Parramatta,New South Wales,404153,87.8,60.5
+Sydney - Ryde,New South Wales,170309,88.8,68.1
+Sydney - South West,New South Wales,359341,89.6,61.9
+Sydney - Sutherland,New South Wales,186637,91.7,70.8
+Darwin,Northern Territory,117809,73.0,57.0
+Northern Territory - Outback,Northern Territory,75289,51.8,40.2
+Other Territories,Other Territories,3866,71.2,62.6
+Brisbane - East,Queensland,193941,69.1,48.0
+Brisbane - North,Queensland,184504,72.5,51.7
+Brisbane - South,Queensland,307826,68.5,48.8
+Brisbane - West,Queensland,156576,76.6,58.1
+Brisbane Inner City,Queensland,252067,71.3,53.6
+Cairns,Queensland,203846,64.7,47.5
+Darling Downs - Maranoa,Queensland,101959,65.7,47.0
+Central Queensland,Queensland,177341,54.7,37.6
+Gold Coast,Queensland,520405,62.0,41.7
+Ipswich,Queensland,280273,59.9,39.7
+Logan - Beaudesert,Queensland,269239,56.1,34.8
+Mackay - Isaac - Whitsunday,Queensland,136822,53.7,34.5
+Moreton Bay - North,Queensland,207538,66.1,45.1
+Moreton Bay - South,Queensland,169581,67.6,46.9
+Queensland - Outback,Queensland,62754,52.1,39.8
+Sunshine Coast,Queensland,315781,67.7,49.0
+Toowoomba,Queensland,126770,65.7,45.4
+Townsville,Queensland,190494,62.1,46.2
+Wide Bay,Queensland,246974,64.5,45.3
+Adelaide - Central and Hills,South Australia,256073,73.9,55.0
+Adelaide - North,South Australia,354823,59.4,41.4
+Adelaide - South,South Australia,306352,70.8,53.2
+Adelaide - West,South Australia,202688,63.0,43.5
+Barossa - Yorke - Mid North,South Australia,94756,67.1,49.2
+South Australia - Outback,South Australia,67834,60.6,44.0
+South Australia - South East,South Australia,160478,65.9,45.7
+Hobart,Tasmania,193723,79.6,60.6
+Launceston and North East,Tasmania,120977,73.6,58.0
+South East,Tasmania,32801,70.3,52.6
+West and North West,Tasmania,92825,69.2,48.0
+Ballarat,Victoria,136404,83.0,54.0
+Bendigo,Victoria,132413,85.6,57.9
+Geelong,Victoria,252370,87.6,57.7
+Hume,Victoria,146495,83.9,54.5
+Latrobe - Gippsland,Victoria,235632,80.8,52.9
+Melbourne - Inner,Victoria,626144,69.9,43.4
+Melbourne - Inner East,Victoria,333298,81.5,53.7
+Melbourne - Inner South,Victoria,366697,82.3,55.2
+Melbourne - North East,Victoria,448781,75.7,44.7
+Melbourne - North West,Victoria,331290,75.4,40.2
+Melbourne - Outer East,Victoria,436533,80.3,49.5
+Melbourne - South East,Victoria,693565,76.2,41.8
+Melbourne - West,Victoria,663585,76.8,41.3
+Mornington Peninsula,Victoria,254563,80.7,52.8
+North West,Victoria,124460,83.1,51.9
+Shepparton,Victoria,108740,86.1,50.6
+Warrnambool and South West,Victoria,102970,87.6,57.2
+Bunbury,Western Australia,146810,64.8,45.6
+Mandurah,Western Australia,84465,63.7,44.6
+Perth - Inner,Western Australia,154842,77.4,60.3
+Perth - North East,Western Australia,216921,61.7,41.0
+Perth - North West,Western Australia,457992,66.6,48.0
+Perth - South East,Western Australia,419799,62.6,43.6
+Perth - South West,Western Australia,349701,65.5,46.9
+Western Australia - Wheat Belt,Western Australia,111419,63.5,43.3
+Western Australia - Outback (North),Western Australia,75413,35.8,22.6
+Western Australia - Outback (South),Western Australia,92353,53.5,35.6
